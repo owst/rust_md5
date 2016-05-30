@@ -1,0 +1,9 @@
+[package]
+name = "rust_md5"
+version = "0.1.0"
+authors = ["Owen Stephens <owen@owenstephens.co.uk>"]
+
+[dependencies]
+byteorder = "0.5.1"
+custom_derive = "0.1.5"
+newtype_derive = "0.1.4"
